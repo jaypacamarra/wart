@@ -1,0 +1,11 @@
+Copy artsy.net design to learn web development
+Credit: https://www.artsy.net/
+
+[ ] Logo top left
+[ ] Search bar
+[ ] Text buttons top bar ('Buy' 'Sell' 'Price Database' 'Editorial')
+[ ] Login button 
+[ ] Sign up button
+[ ] Tabs (Artists,Artworks,Auctions,Viewing Rooms,Galleries,Fairs,Shows,Museums)
+[ ] Big image on left
+[ ] Tittle with subtitle on right and Browse works button
